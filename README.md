@@ -46,18 +46,6 @@ git clone https://github.com/<your-username>/GoTicket.git
 - Connect your Android device (enable USB debugging) or start an emulator.
 - Click **Run** in Android Studio to launch the app.
 
-## 5. Project Structure
-GoTicket/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/assignment1/ # Source code
-│ │ │ ├── res/ # Resources (layouts, images, etc.)
-│ │ │ └── AndroidManifest.xml
-│ │ └── test/
-│ └── build.gradle
-├── build.gradle
-└── README.md
 
 ### Contribution
 
