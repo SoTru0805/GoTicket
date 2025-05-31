@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/OptMenuClearEvent"
+        android:title="Clear Event Form"
+        />
+
+    <item android:id="@+id/OptMenuDeleteCat"
+        android:title="Delete All Categories"/>
+
+    <item android:id="@+id/OptMenuDeleteAllEvent"
+        android:title="Delete All Events"/>
+
+</menu>

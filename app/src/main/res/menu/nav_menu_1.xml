@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/DrawerViewCat"
+        android:title="View All Categories"/>
+
+    <item
+        android:id="@+id/DrawerAddCat"
+        android:title="Add Category"/>
+
+    <item
+        android:id="@+id/DrawerViewEvents"
+        android:title="View All Events"/>
+
+    <item
+        android:id="@+id/DrawerLogout"
+        android:title="Logout"
+        />
+
+</menu>
